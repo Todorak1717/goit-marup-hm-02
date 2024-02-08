@@ -1,6 +1,5 @@
 *
 .body {
-    margin: 0;
     font-family: "Roboto" sans-serif;
     color: #434455;
     background-color:  #FFFFFF; 
@@ -181,7 +180,7 @@ background: #f4f4fd;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
-    margin-right: 76px;
+  
 }
 .logo-name-studio{
     font-weight: 700;
@@ -197,4 +196,18 @@ background: #f4f4fd;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd
+}
+.name-apps-list{
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.text-list-items{
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
 }
