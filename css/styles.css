@@ -77,7 +77,7 @@ font-weight: 500;
 .address {
     font-style: normal;
 }
-.head-list-address{
+.head-list-link{
     font-size: 16px;
     line-height:1.5;
     letter-spacing:0.02em ;
@@ -147,6 +147,9 @@ text-transform: capitalize;
 text-align: center;
 color: #2e2f42;
 background-color: #FFFFFF;
+}
+.section-font-style{
+    background-color: #FFFFFF;
 }
 .name-person-work{
 font-weight: 500;
