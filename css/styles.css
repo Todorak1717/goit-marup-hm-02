@@ -70,8 +70,8 @@ font-weight: 500;
     letter-spacing: 0.02em;
    color: #2e2f42;
 }
-.head-name-link .link:focus
-.head-name-link .link:hover{
+.head-name-link:focus
+.head-name-link:hover{
     color: #404bbf;
 }
 .address {
@@ -84,8 +84,8 @@ font-weight: 500;
     color: #434455;
 
 }
-.head-list-link .link:hover
-.head-list-link .link:focus{
+.head-list-link:hover
+.head-list-link:focus{
     color: #404BBF;
 }
 
@@ -114,8 +114,8 @@ background: #2e2f42;
     cursor: pointer;
     background-color: #4D5AE5;
 }
-.button-style-link .link:focus
-.button-style-link .link:hover{
+.button-style-link:focus
+.button-style-link:hover{
     background-color: #404BBF;
 }
 .section-list-names{
