@@ -1,6 +1,6 @@
 *
 .body {
-    font-family: "Roboto" sans-serif;
+    font-family: "Roboto",sans-serif;
     color: #434455;
     background-color:  #FFFFFF; 
    
@@ -9,7 +9,7 @@
     font-family: "Raleway", sans-serif;
     font-weight: 700;
 font-size: 18px;
-line-height: 1.16667;
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
@@ -38,7 +38,7 @@ color: #2e2f42;
 .nav-studio-logo {
     font-weight:  700;
     font-size:18px; 
-    line-height: .16667;
+   line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -64,16 +64,13 @@ color: #2e2f42;
 
 
 .head-list-title{
-
-    font-weight: 500;
+font-weight: 500;
     font-size: 16px  ;
     line-height: 1.5;
     letter-spacing: 0.02em;
    color: #2e2f42;
 }
-.head-list-title .link:focus{
-color: #404bbf;
-}
+.head-list-title .link:focus
 .head-list-title .link:hover{
     color: #404bbf;
 }
@@ -87,12 +84,9 @@ color: #404bbf;
     color: #434455;
 
 }
-.head-list-address .link:hover{
-    color: #404bbf;
-}
-
+.head-list-address .link:hover
 .head-list-address .link:focus{
-    color: #404bbf;
+    color: #404BBF;
 }
 
 
@@ -122,9 +116,7 @@ background: #2e2f42;
     cursor: pointer;
     background-color: #4D5AE5;
 }
-.button-style-design .link:focus{
-    background-color: #404BBF;
-}
+.button-style-design .link:focus
 .button-style-design .link:hover{
     background-color: #404BBF;
 }
@@ -146,7 +138,7 @@ background: #2e2f42;
 .section-team-foto{
 background-color: #F4F4FD;
 }
-.header-title{
+.header-title-name{
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
@@ -154,6 +146,7 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 text-align: center;
 color: #2e2f42;
+background-color: #FFFFFF;
 }
 .name-person-work{
 font-weight: 500;
