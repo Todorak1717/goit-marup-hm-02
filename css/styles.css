@@ -63,15 +63,15 @@ color: #2e2f42;
 
 
 
-.head-name-link{
+.name-link{
 font-weight: 500;
     font-size: 16px  ;
     line-height: 1.5;
     letter-spacing: 0.02em;
    color: #2e2f42;
 }
-.head-title-link .head-name-link:focus
-.head-title-link .head-name-link:hover{
+.name-link:focus
+.name-link:hover{
     color: #404bbf;
 }
 .address {
@@ -84,8 +84,8 @@ font-weight: 500;
     color: #434455;
 
 }
-.list-address-link .head-list-link:hover
-.list-address-link .head-list-link:focus{
+.mail-link:hover
+.mail-link:focus{
     color: #404BBF;
 }
 
@@ -103,7 +103,7 @@ color: #fff;
 {
 background: #2e2f42; 
 }
-.button-style-link{
+.button-link{
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -114,8 +114,8 @@ background: #2e2f42;
     cursor: pointer;
     background-color: #4D5AE5;
 }
-.section-one-item .button-style-link:focus
-.section-one-item .button-style-link:hover{
+.button-link:focus
+.button-link:hover{
  background-color: #404BBF;
 }
 .section-list-names{
