@@ -163,6 +163,12 @@ text-align: center;
 color: #2e2f42;
 
 }
+.section-team-foto{
+    background-color: #F4F4FD;
+}
+.foto-people{
+    background-color: #F4F4FD;
+}
 .team-foto-people{
     list-style-type: none;  
 }
