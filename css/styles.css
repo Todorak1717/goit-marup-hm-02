@@ -1,5 +1,5 @@
-*
-.body {
+
+body {
     font-family: "Roboto",sans-serif;
     color: #434455;
     background-color:  #FFFFFF; 
@@ -13,8 +13,22 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
-  
+text-decoration: none;
+list-style-type: none;
+
+
 }
+.section-list-benefits{
+    list-style-type: none; 
+}
+.address-link{
+list-style-type: none;
+
+}
+.head-title-link{
+    list-style-type: none;
+  
+  }
 .logo-span-studio{
     font-weight: 700;
 font-size: 18px;
@@ -27,13 +41,9 @@ color: #2e2f42;
 .address-mail-items{
     font-style: normal;
 }
-.logo-span-studio{
-    font-weight: 700;
-font-size: 18px;
-line-height: 1.16667;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color: #2e2f42;
+
+.section-one-item{
+    background: #2e2f42;
 }
 .nav-studio-logo {
     font-weight:  700;
@@ -42,6 +52,7 @@ color: #2e2f42;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+
 }
 .studio-list-items{
     font-family: "Roboto", sans-serif;;
@@ -64,11 +75,16 @@ color: #2e2f42;
 
 
 .name-link{
+   font-family: 'Roboto',sans-serif;
 font-weight: 500;
-    font-size: 16px  ;
+    font-size: 16px ;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    text-decoration: none;
    color: #2e2f42;
+
+ 
+  
 }
 .name-link:focus,
 .name-link:hover{
@@ -76,12 +92,15 @@ font-weight: 500;
 }
 .address {
     font-style: normal;
+    list-style-type: none;
 }
 .mail-link{
     font-size: 16px;
     line-height:1.5;
     letter-spacing:0.02em ;
     color: #434455;
+    text-decoration: none;
+   
 
 }
 .mail-link:hover,
@@ -99,10 +118,7 @@ text-align: center;
 color: #fff;
   
 }
-.section-one-item
-{
-background: #2e2f42; 
-}
+
 .button-link{
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -133,9 +149,8 @@ background: #2e2f42;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.section-team-foto{
-background-color: #F4F4FD;
-}
+
+
 .header-title-name{
 font-weight: 700;
 font-size: 36px;
@@ -146,9 +161,13 @@ text-align: center;
 color: #2e2f42;
 
 }
-.foto-people{
-    background-color: #FFFFFF;
+.team-foto-people{
+    list-style-type: none;  
 }
+.section-font-style{
+    list-style-type: none;
+}
+
 .name-person-work{
 font-weight: 500;
 font-size: 20px;
@@ -157,9 +176,7 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 background-color: #FFFFFF;
 }
-.section-team-foto{
-background: #f4f4fd;
-}
+
 
 .footer{
     background-color : #2e2f42;
